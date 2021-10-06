@@ -31,3 +31,4 @@ In this project the user can add courses goals, then all the goals will be added
 
 Through the construction of this app, I have learned:
 - How to use inline Style dinamically (not preferable)
+- How to set CSS Classes Dynamically (preferable)
