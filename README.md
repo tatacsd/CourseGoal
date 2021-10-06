@@ -28,3 +28,6 @@ This project is part of the React - The Complete Guide (incl Hooks, React Router
 This project is part of the React - The Complete Guide (incl Hooks, React Router, Redux) course on Udemy, created by [Maximilian Schwarzmüller](https://www.udemy.com/course/react-the-complete-guide-incl-redux/#instructor-2).
 
 In this project the user can add courses goals, then all the goals will be added to a list f goal, whenever the goal is completed the user can click on it to delete from the list.
+
+Through the construction of this app, I have learned:
+- 
