@@ -30,4 +30,4 @@ This project is part of the React - The Complete Guide (incl Hooks, React Router
 In this project the user can add courses goals, then all the goals will be added to a list f goal, whenever the goal is completed the user can click on it to delete from the list.
 
 Through the construction of this app, I have learned:
-- 
+- How to use inline Style dinamically (not preferable)
