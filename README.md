@@ -23,6 +23,7 @@ This project is part of the React - The Complete Guide (incl Hooks, React Router
 
 ## Table of Contents
 - [Introduction](#introduction)
+- [acknowledgements](#acknowledgements)
 
 ## Introduction
 This project is part of the React - The Complete Guide (incl Hooks, React Router, Redux) course on Udemy, created by [Maximilian Schwarzmüller](https://www.udemy.com/course/react-the-complete-guide-incl-redux/#instructor-2).
@@ -32,3 +33,8 @@ In this project the user can add courses goals, then all the goals will be added
 Through the construction of this app, I have learned:
 - How to use inline Style dinamically (not preferable)
 - How to set CSS Classes Dynamically (preferable)
+- Introduction in how to use Styled Components
+
+# Acknowledgements
+
+- [Styled Components](https://styled-components.com/)
