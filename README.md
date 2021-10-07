@@ -36,6 +36,7 @@ Through the construction of this app, I have learned:
 - Introduction in how to use Styled Components & props (not preferable)
 - How to use Styled Components & Media Queries
 - How to use CSS Modules (preferable)
+- How to set dynamic Styles with CSS Modules & Media Queries (preferable)
 
 # Acknowledgements
 
