@@ -34,6 +34,7 @@ Through the construction of this app, I have learned:
 - How to use inline Style dinamically (not preferable)
 - How to set CSS Classes Dynamically (preferable)
 - Introduction in how to use Styled Components & props
+- How to use Styled Components & Media Queries
 
 # Acknowledgements
 
